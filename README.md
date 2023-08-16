@@ -1,1 +1,2 @@
-# chatbot_chronic
+# ChatBot.Chronic
+python manage.py runserver
